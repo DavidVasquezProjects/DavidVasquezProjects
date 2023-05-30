@@ -1,4 +1,6 @@
-<h1>Hi, I'm David! <br/><a href="https://www.linkedin.com/in/davidvasquez03/">Cybersecurity Professional</a></h1>
+<img src="https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif" alt="greetings (1)" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+<h1>David Vasquez<br/><a href="https://www.linkedin.com/in/davidvasquez03/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
